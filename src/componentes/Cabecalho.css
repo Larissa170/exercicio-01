@@ -1,0 +1,26 @@
+nav {
+  text-align: right;
+  font-size: 18pt;
+}
+
+nav ul li {
+  display: inline;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+image img {
+  width: 10%;
+  height: 10%;
+  display: flex;
+}
+
+.buscar {
+  text-align: right;
+}
+
+.buscar input {
+  border: 1px solid #ddd;
+  width: 20%;
+  padding: 10px;
+}

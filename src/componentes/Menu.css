@@ -1,0 +1,12 @@
+section {
+  margin-top: 30px;
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 1%;
+}
+
+section ul li {
+  text-decoration: none;
+  display: inline;
+  padding-left: 75px;
+}
